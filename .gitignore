@@ -1,1 +1,3 @@
-python-twitter-0.8.2/
+# generated files
+*.pyc
+*.html
